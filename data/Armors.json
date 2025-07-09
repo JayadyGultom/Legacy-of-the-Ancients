@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":152,"name":"Light armor","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":2,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":3,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":4,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":5,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+{"id":1,"atypeId":1,"description":"Perisai ringan yang memberikan perlindungan tanpa mengurangi kecepatan pemain.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":152,"name":"Light armor","note":"","params":[0,0,0,2,0,0,1,0],"price":100},
+{"id":2,"atypeId":1,"description":"Perisai berat yang memberikan perlindungan maksimal, tetapi memperlambat gerakan pemain.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":-0.02}],"iconIndex":81,"name":"Heavy Armor","note":"","params":[0,0,0,8,0,0,-3,0],"price":300},
+{"id":3,"atypeId":1,"description":"Gaun druid yang memberikan resistensi terhadap serangan magis dan meningkatkan koneksi dengan alam.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.03}],"iconIndex":136,"name":"Druid's Robe","note":"","params":[5,0,0,0,0,4,0,0],"price":200},
+{"id":4,"atypeId":1,"description":"Mantel penyihir yang melindungi dari serangan magis tanpa mengurangi mobilitas","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0.02}],"iconIndex":153,"name":"Mage's Cloak","note":"","params":[0,0,0,0,0,3,0,1],"price":150},
+{"id":5,"atypeId":1,"description":"Rompi pemburu yang memberikan fleksibilitas dan sedikit pertahanan.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.04}],"iconIndex":135,"name":"Hunter's Vest","note":"","params":[0,0,0,1,0,0,2,0],"price":75}
 ]

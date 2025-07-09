@@ -1,8 +1,9 @@
 [
 null,
 {"id":1,"animationId":6,"description":"Pedang yang ringan dan mudah digunakan, cocok untuk serangan cepat.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Short Sword","note":"","params":[0,0,8,0,0,0,2,0],"price":300,"wtypeId":2},
-{"id":2,"animationId":24,"description":"Pedang besar yang memberikan kerusakan tinggi, tetapi memerlukan kekuatan ekstra untuk digunakan.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Greatsword","note":"","params":[0,0,12,-2,0,0,-1,0],"price":670,"wtypeId":2},
+{"id":2,"animationId":65,"description":"Pedang besar yang memberikan kerusakan tinggi, tetapi memerlukan kekuatan ekstra untuk digunakan.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Greatsword","note":"","params":[0,0,12,-2,0,0,-1,0],"price":670,"wtypeId":2},
 {"id":3,"animationId":29,"description":"Busur yang akurat untuk serangan jarak jauh.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,7,0,0,0,3,1],"price":400,"wtypeId":7},
 {"id":4,"animationId":105,"description":"Tongkat sihir yang meningkatkan kekuatan mantra.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":108,"name":"staff","note":"","params":[0,5,0,0,10,0,1,0],"price":450,"wtypeId":6},
-{"id":5,"animationId":91,"description":"Pisau kecil yang ringan dan cepat, cocok untuk serangan diam-diam.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":112,"name":"dagger","note":"","params":[0,0,6,0,0,0,4,2],"price":250,"wtypeId":1}
+{"id":5,"animationId":91,"description":"Pisau kecil yang ringan dan cepat, cocok untuk serangan diam-diam.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":112,"name":"dagger","note":"","params":[0,0,6,0,0,0,4,2],"price":250,"wtypeId":1},
+{"id":6,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
 ]
