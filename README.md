@@ -79,11 +79,6 @@ Kerajaan Valderia dilanda kegelapan setelah Draezen, Raja Monster, mengambil ali
 
 ---
 
-## Cara Download & Mainkan
-
-### Link Game
-[Download Legacy of the Ancients (Google Drive)](https://drive.google.com/file/d/1wlofpIG74H9ljrV_bPOgzZuhczLRprJL/view?usp=drive_link)
-
 ### Cara Memainkan
 
 #### Dengan RPG Maker MZ:
